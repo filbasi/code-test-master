@@ -56,3 +56,10 @@ require.
 * A seller can deactivate and reactivate their listing
 
 After you are done, create a release branch in your repo and send us the link.
+
+
+## Import Starship data
+To load api data use "import_starships" management command
+
+## Docs
+Check [swagger docs](http://localhost:8008/swagger/)
